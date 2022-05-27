@@ -1,2 +1,4 @@
-new.php
+/new.php
+*.log
 akash.html
+ignored/
